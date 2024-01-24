@@ -3,7 +3,9 @@
 This repository contains a responsive clone of the Facebook login page, built using Tailwind CSS and HTML. The project showcases the use of Tailwind CSS utility classes to create a visually appealing and responsive user interface.
 
 ## Preview
-<img width="1437" alt="Screenshot 2024-01-24 at 4 09 44 PM" src="https://github.com/vishu-bhandari/Facebook-Login-Page-Clone/assets/130288269/a516ceb8-fbd0-4fb4-8fa9-1e53087f1c40">
+<img width="1436" alt="Screenshot 2024-01-24 at 4 11 37 PM" src="https://github.com/vishu-bhandari/Facebook-Login-Page-Clone/assets/130288269/46b062e4-ac39-4e01-ab0a-e183bca1a13e">
+<img width="1437" alt="Screenshot 2024-01-24 at 4 11 47 PM" src="https://github.com/vishu-bhandari/Facebook-Login-Page-Clone/assets/130288269/5ce317b8-deea-4463-844a-6c5c9ac3c978">
+<img width="990" alt="Screenshot 2024-01-24 at 4 12 37 PM" src="https://github.com/vishu-bhandari/Facebook-Login-Page-Clone/assets/130288269/55a948f5-26d6-4349-8c59-3e298f5920ba">
 
 
 ## Features
